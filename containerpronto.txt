@@ -1,0 +1,118 @@
+<div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                  <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro1.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+                  
+                  <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Primeiro%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+      
+                </div>
+              </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro2.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+                
+                <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Segundo%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro3.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+                <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Terceiro%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a> 
+            </div>
+            </div>
+
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro4.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+                <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Quarto%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+                
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro5.jpeg">
+                <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Quinto%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro6.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+                <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Sexto%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+                
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro7.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+                <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Sétimo%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro8.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+
+                <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Oitavo%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+    
+              </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                  <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro9.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+                  <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Nono%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                  <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro10.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+                  <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Décimo%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+      
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                  <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro11.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+                  <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Décimo%20Primeiro%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+                </div>
+              </div>
+
+
+              <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                  <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro13.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+                  <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Décimo%20Segundo%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+      
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                  <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro14.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+                  <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Décimo%20Terceiro%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                  <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro15.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+                  <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Décimo%20Quarto%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+      
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                  <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro16.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+
+                  <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Décimo%20Quinto%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+      
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                  <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="imagns/Quadro17.jpeg" data-holder-rendered="true" style="height: 500px; width: 100%; display: block;">
+                  <a href="https://wa.me/5524992651641?text=Eu%20tenho%20interesse%20nesse%20kit%20é%20o%20Décimo%20Sexto%20do%20site" class="btn btn-primary my-2"><i class="fa fa-whatsapp" aria-hidden="true">Clique aqui e garanta o seu!</i></a>
+                </div>
+              </div>
+
+          </div>
+        </div>
